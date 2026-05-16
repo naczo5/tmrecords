@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recent Changes - Trackmania Records Tracker</title>
+    <meta name="description" content="Recently beaten long-standing Trackmania 2020 world records.">
+    <meta name="theme-color" content="#101214">
+    <link rel="icon" type="image/png" href="./static/images/favicon.png">
+    <link rel="stylesheet" href="./static/css/styles.css">
+</head>
+
+<body>
+    <main class="shell">
+        <header class="page-header">
+            <div>
+                <p class="eyebrow">Trackmania 2020</p>
+                <h1>Recent Changes</h1>
+                <p class="lede">World records beaten after standing for at least three years.</p>
+            </div>
+            <div class="header-side">
+                <nav class="nav-links" aria-label="Primary">
+                    <a href="./index.html">Records</a>
+                    <a href="./recent-changes.html" aria-current="page">Recent changes</a>
+                </nav>
+                <p class="last-update">
+                    <span>Last updated</span>
+                    <strong id="lastUpdateTime">Loading</strong>
+                </p>
+            </div>
+        </header>
+
+        <section class="changes-list" id="changesContainer">
+            <div class="panel empty-state">Loading recent changes</div>
+        </section>
+    </main>
+
+    <script src="./static/js/common.js"></script>
+    <script src="./static/js/recent-changes.js"></script>
+</body>
+
+</html>

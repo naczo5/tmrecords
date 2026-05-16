@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trackmania Oldest World Records Tracker</title>
+    <meta name="description" content="Longest-standing Trackmania 2020 world records on official campaign and Track of the Day maps.">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Trackmania WR Tracker">
+    <meta property="og:title" content="Trackmania WR Tracker">
+    <meta property="og:description" content="Longest-standing Trackmania 2020 world records on official campaign and Track of the Day maps.">
+    <meta name="twitter:card" content="summary">
+    <meta name="theme-color" content="#101214">
+    <link rel="icon" type="image/png" href="./static/images/favicon.png">
+    <link rel="stylesheet" href="./static/css/styles.css">
+</head>
+
+<body>
+    <main class="shell">
+        <header class="page-header">
+            <div>
+                <p class="eyebrow">Trackmania 2020</p>
+                <h1>Oldest World Records</h1>
+                <p class="lede">Official seasonal campaign and Track of the Day records, sorted by how long they have stood.</p>
+            </div>
+            <div class="header-side">
+                <nav class="nav-links" aria-label="Primary">
+                    <a href="./index.html" aria-current="page">Records</a>
+                    <a href="./recent-changes.html">Recent changes</a>
+                </nav>
+                <p class="last-update">
+                    <span>Last updated</span>
+                    <strong id="lastUpdateTime">Loading</strong>
+                </p>
+            </div>
+        </header>
+
+        <section class="stats-grid" aria-label="Record statistics">
+            <article class="metric">
+                <span>Total records</span>
+                <strong id="totalRecords">-</strong>
+            </article>
+            <article class="metric">
+                <span>Oldest record</span>
+                <strong><span id="oldestRecord">-</span> days</strong>
+            </article>
+            <article class="metric">
+                <span>Record holders</span>
+                <strong id="uniquePlayers">-</strong>
+            </article>
+        </section>
+
+        <section class="panel filters" aria-label="Filters">
+            <label>
+                <span>Date from</span>
+                <input type="date" id="dateFrom">
+            </label>
+            <label>
+                <span>Date to</span>
+                <input type="date" id="dateTo">
+            </label>
+            <label>
+                <span>Map type</span>
+                <select id="mapType">
+                    <option value="">All maps</option>
+                    <option value="TOTD">Track of the Day</option>
+                    <option value="Campaign">Campaign maps</option>
+                </select>
+            </label>
+            <label>
+                <span>Player</span>
+                <input type="search" id="playerFilter" placeholder="Filter by player">
+            </label>
+        </section>
+
+        <section class="panel table-panel">
+            <div class="table-toolbar">
+                <p id="resultsInfo">Loading records</p>
+            </div>
+            <div class="table-scroll">
+                <table>
+                    <thead>
+                        <tr>
+                            <th scope="col">#</th>
+                            <th scope="col" data-sort="mapName">Map</th>
+                            <th scope="col" data-sort="campaign">Campaign</th>
+                            <th scope="col" data-sort="scoreMs">Time</th>
+                            <th scope="col" data-sort="player">Holder</th>
+                            <th scope="col" data-sort="date">Set date</th>
+                            <th scope="col" data-sort="ageDays" class="numeric">Days</th>
+                            <th scope="col">Link</th>
+                        </tr>
+                    </thead>
+                    <tbody id="recordsBody">
+                        <tr>
+                            <td colspan="8" class="state-cell">Loading records</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="pagination" aria-label="Pagination">
+                <button id="firstBtn" type="button">First</button>
+                <button id="prevBtn" type="button">Previous</button>
+                <span id="pageInfo">Page 1 of 1</span>
+                <button id="nextBtn" type="button">Next</button>
+                <button id="lastBtn" type="button">Last</button>
+            </div>
+        </section>
+    </main>
+
+    <script src="./static/js/common.js"></script>
+    <script src="./static/js/records.js"></script>
+</body>
+
+</html>
