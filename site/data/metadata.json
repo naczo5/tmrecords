@@ -1,7 +1,9 @@
 {
-    "lastUpdate": "2025-09-24T23:02:41Z",
-    "recordCount": 2437,
-    "recentChangeCount": 0,
-    "warningCount": 0,
-    "generatedBy": "seed"
+  "lastUpdate": "2026-05-16T21:12:55Z",
+  "recordCount": 2746,
+  "recentChangeCount": 24,
+  "warningCount": 0,
+  "warnings": [],
+  "durationSeconds": 566.18,
+  "generatedBy": "scripts/fetch_records.py"
 }
