@@ -407,6 +407,17 @@
     "timeSec": 39.082
   },
   {
+    "mapUid": "8rWFH6JI2N1UuHeaS9dmMkTojS",
+    "mapName": "Summer 2020 - 04",
+    "player": "SamGusta",
+    "scoreMs": 22521,
+    "date": "2020-08-12T21:09:10Z",
+    "ageDays": 2103,
+    "campaign": "Summer 2020",
+    "link": "https://trackmania.io/#/leaderboard/8rWFH6JI2N1UuHeaS9dmMkTojS",
+    "timeSec": 22.521
+  },
+  {
     "mapUid": "rTkY99gbvUVA_OpEERTlWF1kIRj",
     "mapName": "Forgotten",
     "player": "poupipou.",
@@ -416,17 +427,6 @@
     "campaign": "TOTD 2020-08",
     "link": "https://trackmania.io/#/leaderboard/rTkY99gbvUVA_OpEERTlWF1kIRj",
     "timeSec": 40.498
-  },
-  {
-    "mapUid": "8rWFH6JI2N1UuHeaS9dmMkTojS",
-    "mapName": "Summer 2020 - 04",
-    "player": "SamGusta",
-    "scoreMs": 22521,
-    "date": "2020-08-12T21:09:10Z",
-    "ageDays": 2102,
-    "campaign": "Summer 2020",
-    "link": "https://trackmania.io/#/leaderboard/8rWFH6JI2N1UuHeaS9dmMkTojS",
-    "timeSec": 22.521
   },
   {
     "mapUid": "iWUvrk1X45PaUmKv6HUDak4W6V2",
@@ -506,6 +506,17 @@
     "timeSec": 33.258
   },
   {
+    "mapUid": "oTGP3jwCiubHBM6KtuR_aCtGWZi",
+    "mapName": "Summer 2020 - 10",
+    "player": "riolu-tm",
+    "scoreMs": 37718,
+    "date": "2020-08-24T21:08:12Z",
+    "ageDays": 2091,
+    "campaign": "Summer 2020",
+    "link": "https://trackmania.io/#/leaderboard/oTGP3jwCiubHBM6KtuR_aCtGWZi",
+    "timeSec": 37.718
+  },
+  {
     "mapUid": "Rkk1avkRmmOazkFGhIAoCZktUdj",
     "mapName": "Fresh Air",
     "player": "DarkBringer94",
@@ -515,17 +526,6 @@
     "campaign": "TOTD 2020-08",
     "link": "https://trackmania.io/#/leaderboard/Rkk1avkRmmOazkFGhIAoCZktUdj",
     "timeSec": 45.493
-  },
-  {
-    "mapUid": "oTGP3jwCiubHBM6KtuR_aCtGWZi",
-    "mapName": "Summer 2020 - 10",
-    "player": "riolu-tm",
-    "scoreMs": 37718,
-    "date": "2020-08-24T21:08:12Z",
-    "ageDays": 2090,
-    "campaign": "Summer 2020",
-    "link": "https://trackmania.io/#/leaderboard/oTGP3jwCiubHBM6KtuR_aCtGWZi",
-    "timeSec": 37.718
   },
   {
     "mapUid": "lQr9IjXbvAS21aWSaEa3TWFqFki",
@@ -544,7 +544,7 @@
     "player": "RoaTM.",
     "scoreMs": 27572,
     "date": "2020-08-25T21:04:15Z",
-    "ageDays": 2089,
+    "ageDays": 2090,
     "campaign": "TOTD 2020-08",
     "link": "https://trackmania.io/#/leaderboard/yt5pBqrIGEzFWBuSW2K_wuM7cp4",
     "timeSec": 27.572
@@ -3602,7 +3602,7 @@
     "player": "DexteR.771",
     "scoreMs": 53776,
     "date": "2021-07-05T21:13:20Z",
-    "ageDays": 1775,
+    "ageDays": 1776,
     "campaign": "TOTD 2021-07",
     "link": "https://trackmania.io/#/leaderboard/df0bDYt4njf_WjYxGCEWyh_iPa3",
     "timeSec": 53.776
@@ -5775,6 +5775,17 @@
     "timeSec": 51.372
   },
   {
+    "mapUid": "7fShihPL7OPpQlkP_Oq9d1jMHy2",
+    "mapName": "NORGARD",
+    "player": "BubbL3man",
+    "scoreMs": 42837,
+    "date": "2022-01-15T21:10:51Z",
+    "ageDays": 1582,
+    "campaign": "TOTD 2022-01",
+    "link": "https://trackmania.io/#/leaderboard/7fShihPL7OPpQlkP_Oq9d1jMHy2",
+    "timeSec": 42.837
+  },
+  {
     "mapUid": "Lj_tkohzYnCwLMPXZOmiXPj6QAg",
     "mapName": "Curveball",
     "player": "levonn",
@@ -5795,17 +5806,6 @@
     "campaign": "Winter 2022",
     "link": "https://trackmania.io/#/leaderboard/bFgLN1EKYVLg0Ll4ZT6jKLFGYo2",
     "timeSec": 18.773
-  },
-  {
-    "mapUid": "7fShihPL7OPpQlkP_Oq9d1jMHy2",
-    "mapName": "NORGARD",
-    "player": "BubbL3man",
-    "scoreMs": 42837,
-    "date": "2022-01-15T21:10:51Z",
-    "ageDays": 1581,
-    "campaign": "TOTD 2022-01",
-    "link": "https://trackmania.io/#/leaderboard/7fShihPL7OPpQlkP_Oq9d1jMHy2",
-    "timeSec": 42.837
   },
   {
     "mapUid": "9q2gYafm_XJVuUSaW7cllFflyx4",
@@ -9295,6 +9295,17 @@
     "timeSec": 40.746
   },
   {
+    "mapUid": "LfUHUsHzwuAg5uBZRm7qFVxqLE7",
+    "mapName": "Fall 2022 - 15",
+    "player": "hobbi.",
+    "scoreMs": 38614,
+    "date": "2022-11-11T21:12:02Z",
+    "ageDays": 1282,
+    "campaign": "Fall 2022",
+    "link": "https://trackmania.io/#/leaderboard/LfUHUsHzwuAg5uBZRm7qFVxqLE7",
+    "timeSec": 38.614
+  },
+  {
     "mapUid": "Y2bQgvqir3OfalJIZgFlciu8K99",
     "mapName": "Niepodlegli (ft mime)",
     "player": "ShcrTM",
@@ -9315,17 +9326,6 @@
     "campaign": "Fall 2022",
     "link": "https://trackmania.io/#/leaderboard/u9rggrjoe4UW5xfZnl15bJU6Nya",
     "timeSec": 27.286
-  },
-  {
-    "mapUid": "LfUHUsHzwuAg5uBZRm7qFVxqLE7",
-    "mapName": "Fall 2022 - 15",
-    "player": "hobbi.",
-    "scoreMs": 38614,
-    "date": "2022-11-11T21:12:02Z",
-    "ageDays": 1281,
-    "campaign": "Fall 2022",
-    "link": "https://trackmania.io/#/leaderboard/LfUHUsHzwuAg5uBZRm7qFVxqLE7",
-    "timeSec": 38.614
   },
   {
     "mapUid": "dnyGjVxGAi3Ww5cDczEUrsebwdf",
@@ -12589,7 +12589,7 @@
     "player": "xTigershark777",
     "scoreMs": 45248,
     "date": "2023-07-15T21:07:20Z",
-    "ageDays": 1035,
+    "ageDays": 1036,
     "campaign": "TOTD 2022-11",
     "link": "https://trackmania.io/#/leaderboard/RkUb0mvIxeKKhfiG7YfTViMv5Da",
     "timeSec": 45.248
@@ -14646,7 +14646,7 @@
     "player": "DexteR.771",
     "scoreMs": 54248,
     "date": "2023-12-11T21:14:54Z",
-    "ageDays": 886,
+    "ageDays": 887,
     "campaign": "TOTD 2023-12",
     "link": "https://trackmania.io/#/leaderboard/5ZPjTOHdEq9zscsX8zhqhy5Zgt9",
     "timeSec": 54.248
@@ -16043,7 +16043,7 @@
     "player": "L1ngotm",
     "scoreMs": 41710,
     "date": "2024-03-12T21:08:11Z",
-    "ageDays": 794,
+    "ageDays": 795,
     "campaign": "TOTD 2024-03",
     "link": "https://trackmania.io/#/leaderboard/FxsiCtN4H9i5hnECwnwjOpITE5c",
     "timeSec": 41.71
@@ -16857,7 +16857,7 @@
     "player": "Dividedz",
     "scoreMs": 48795,
     "date": "2024-05-08T21:05:17Z",
-    "ageDays": 737,
+    "ageDays": 738,
     "campaign": "TOTD 2024-05",
     "link": "https://trackmania.io/#/leaderboard/2lr_Uhz012JtaEjo62iwxtmyad2",
     "timeSec": 48.795
@@ -17094,6 +17094,17 @@
     "timeSec": 27.453
   },
   {
+    "mapUid": "ANp_5I0olt_0vmies5vdxLkH1e2",
+    "mapName": "Spring 2024 - 16",
+    "player": "TurtledTM",
+    "scoreMs": 41538,
+    "date": "2024-05-27T21:12:01Z",
+    "ageDays": 719,
+    "campaign": "Spring 2024",
+    "link": "https://trackmania.io/#/leaderboard/ANp_5I0olt_0vmies5vdxLkH1e2",
+    "timeSec": 41.538
+  },
+  {
     "mapUid": "wNqx0QzHK7vwHWYfo_vzp6ODwKb",
     "mapName": "Banana Meltdown",
     "player": "hofla74",
@@ -17114,17 +17125,6 @@
     "campaign": "TOTD 2024-05",
     "link": "https://trackmania.io/#/leaderboard/ADPtJ7x0LSFg2piYJAQrNfHy5o4",
     "timeSec": 42.038
-  },
-  {
-    "mapUid": "ANp_5I0olt_0vmies5vdxLkH1e2",
-    "mapName": "Spring 2024 - 16",
-    "player": "TurtledTM",
-    "scoreMs": 41538,
-    "date": "2024-05-27T21:12:01Z",
-    "ageDays": 718,
-    "campaign": "Spring 2024",
-    "link": "https://trackmania.io/#/leaderboard/ANp_5I0olt_0vmies5vdxLkH1e2",
-    "timeSec": 41.538
   },
   {
     "mapUid": "yZHsV7satnZPSB8EMhnuUKlMJBc",
@@ -19673,7 +19673,7 @@
     "player": "marsli",
     "scoreMs": 72923,
     "date": "2024-11-03T21:15:19Z",
-    "ageDays": 558,
+    "ageDays": 559,
     "campaign": "TOTD 2024-11",
     "link": "https://trackmania.io/#/leaderboard/zqlj78q_wNkLKijVlloHoQNS030",
     "timeSec": 72.923
@@ -20108,6 +20108,17 @@
     "timeSec": 34.838
   },
   {
+    "mapUid": "D6gnMSccMV_QHo4KG5LREWvYti2",
+    "mapName": "Pyramidori ft Oclavukixus",
+    "player": "laurids.",
+    "scoreMs": 43586,
+    "date": "2024-11-29T21:10:34Z",
+    "ageDays": 533,
+    "campaign": "TOTD 2024-07",
+    "link": "https://trackmania.io/#/leaderboard/D6gnMSccMV_QHo4KG5LREWvYti2",
+    "timeSec": 43.586
+  },
+  {
     "mapUid": "tl_RqArUrUQ9KQDe0U5fskzdrpj",
     "mapName": "Fall 2024 - 02",
     "player": "DarkestSentinel",
@@ -20128,17 +20139,6 @@
     "campaign": "TOTD 2024-11",
     "link": "https://trackmania.io/#/leaderboard/JjUItP724g_lEs3P811Amj6Bu50",
     "timeSec": 43.567
-  },
-  {
-    "mapUid": "D6gnMSccMV_QHo4KG5LREWvYti2",
-    "mapName": "Pyramidori ft Oclavukixus",
-    "player": "laurids.",
-    "scoreMs": 43586,
-    "date": "2024-11-29T21:10:34Z",
-    "ageDays": 532,
-    "campaign": "TOTD 2024-07",
-    "link": "https://trackmania.io/#/leaderboard/D6gnMSccMV_QHo4KG5LREWvYti2",
-    "timeSec": 43.586
   },
   {
     "mapUid": "yLAdypk1rpVPXcTLkPmqD5nnY3e",
@@ -20339,6 +20339,17 @@
     "timeSec": 47.015
   },
   {
+    "mapUid": "wtzut56i98L4UwzRlstbZS4E_0f",
+    "mapName": "The Showdown",
+    "player": "SolivaganTz",
+    "scoreMs": 39612,
+    "date": "2024-12-12T21:12:06Z",
+    "ageDays": 520,
+    "campaign": "TOTD 2022-01",
+    "link": "https://trackmania.io/#/leaderboard/wtzut56i98L4UwzRlstbZS4E_0f",
+    "timeSec": 39.612
+  },
+  {
     "mapUid": "mijbrgeyRo6XyjlulEE6QhZSQNm",
     "mapName": "pephobia  Nightwolf",
     "player": "Heav.3Y",
@@ -20370,17 +20381,6 @@
     "campaign": "TOTD 2024-12",
     "link": "https://trackmania.io/#/leaderboard/xLb3OFQxdaHChTgXYqt9bYkQn7",
     "timeSec": 36.801
-  },
-  {
-    "mapUid": "wtzut56i98L4UwzRlstbZS4E_0f",
-    "mapName": "The Showdown",
-    "player": "SolivaganTz",
-    "scoreMs": 39612,
-    "date": "2024-12-12T21:12:06Z",
-    "ageDays": 519,
-    "campaign": "TOTD 2022-01",
-    "link": "https://trackmania.io/#/leaderboard/wtzut56i98L4UwzRlstbZS4E_0f",
-    "timeSec": 39.612
   },
   {
     "mapUid": "gkpecE76zBRsih1hnStRmM0vR8f",
@@ -20790,6 +20790,17 @@
     "timeSec": 57.538
   },
   {
+    "mapUid": "_RsS6b4WBp8a2kkKteyge8Uj4P2",
+    "mapName": "Slumbering World",
+    "player": "Narbex",
+    "scoreMs": 40345,
+    "date": "2024-12-28T21:11:28Z",
+    "ageDays": 504,
+    "campaign": "TOTD 2024-12",
+    "link": "https://trackmania.io/#/leaderboard/_RsS6b4WBp8a2kkKteyge8Uj4P2",
+    "timeSec": 40.345
+  },
+  {
     "mapUid": "5i6eQFrFOh50XqsBzSaF5AE8Yp8",
     "mapName": "Black Rose ft KarjeN",
     "player": "Mawi._",
@@ -20810,17 +20821,6 @@
     "campaign": "Fall 2024",
     "link": "https://trackmania.io/#/leaderboard/MXCtvB4zmW3iliJ48Jti6luY9Zi",
     "timeSec": 37.368
-  },
-  {
-    "mapUid": "_RsS6b4WBp8a2kkKteyge8Uj4P2",
-    "mapName": "Slumbering World",
-    "player": "Narbex",
-    "scoreMs": 40345,
-    "date": "2024-12-28T21:11:28Z",
-    "ageDays": 503,
-    "campaign": "TOTD 2024-12",
-    "link": "https://trackmania.io/#/leaderboard/_RsS6b4WBp8a2kkKteyge8Uj4P2",
-    "timeSec": 40.345
   },
   {
     "mapUid": "JR0BLaiD3U9tihdcvz79PF9S8Gc",
@@ -21081,7 +21081,7 @@
     "player": "Ikarus.",
     "scoreMs": 43260,
     "date": "2025-01-13T21:10:54Z",
-    "ageDays": 487,
+    "ageDays": 488,
     "campaign": "TOTD 2025-01",
     "link": "https://trackmania.io/#/leaderboard/Sq_am8jeiSet_8RxSUGJUBgrlaa",
     "timeSec": 43.26
@@ -22115,7 +22115,7 @@
     "player": "hobbi.",
     "scoreMs": 40037,
     "date": "2025-03-17T21:06:32Z",
-    "ageDays": 424,
+    "ageDays": 425,
     "campaign": "TOTD 2025-03",
     "link": "https://trackmania.io/#/leaderboard/YeX6yWByqi6G8SRUHa3BSpMJDj3",
     "timeSec": 40.037
@@ -23936,6 +23936,17 @@
     "timeSec": 26.307
   },
   {
+    "mapUid": "kRI21bX4eVJjuVxfybMhK0f4fX7",
+    "mapName": "Spring 2025 - 23",
+    "player": "Korniee",
+    "scoreMs": 48744,
+    "date": "2025-06-30T21:11:57Z",
+    "ageDays": 320,
+    "campaign": "Spring 2025",
+    "link": "https://trackmania.io/#/leaderboard/kRI21bX4eVJjuVxfybMhK0f4fX7",
+    "timeSec": 48.744
+  },
+  {
     "mapUid": "xLL5Xt4gHEa1LNrCBEbIfmfRAha",
     "mapName": "Startpoint",
     "player": "SKY.T1",
@@ -23956,17 +23967,6 @@
     "campaign": "Spring 2025",
     "link": "https://trackmania.io/#/leaderboard/pDR_gM4XGM_GhdlgeWn4qjvfnG3",
     "timeSec": 45.916
-  },
-  {
-    "mapUid": "kRI21bX4eVJjuVxfybMhK0f4fX7",
-    "mapName": "Spring 2025 - 23",
-    "player": "Korniee",
-    "scoreMs": 48744,
-    "date": "2025-06-30T21:11:57Z",
-    "ageDays": 319,
-    "campaign": "Spring 2025",
-    "link": "https://trackmania.io/#/leaderboard/kRI21bX4eVJjuVxfybMhK0f4fX7",
-    "timeSec": 48.744
   },
   {
     "mapUid": "lFNdC9PCOt37bqcsv_fnwr8vRha",
@@ -24348,7 +24348,7 @@
     "player": "Jxliano",
     "scoreMs": 205585,
     "date": "2025-07-25T21:09:05Z",
-    "ageDays": 294,
+    "ageDays": 295,
     "campaign": "Summer 2025",
     "link": "https://trackmania.io/#/leaderboard/EnCwjjiNcPkObIE1HUmDzLZHoL0",
     "timeSec": 205.585
@@ -26664,6 +26664,17 @@
     "timeSec": 43.082
   },
   {
+    "mapUid": "bNvoo1dSHxjk5JWj9PX66y2mXIh",
+    "mapName": "Melting Point  | ft Drifter",
+    "player": "arjantm",
+    "scoreMs": 54845,
+    "date": "2025-11-25T21:14:10Z",
+    "ageDays": 172,
+    "campaign": "TOTD 2024-09",
+    "link": "https://trackmania.io/#/leaderboard/bNvoo1dSHxjk5JWj9PX66y2mXIh",
+    "timeSec": 54.845
+  },
+  {
     "mapUid": "6DL4fbBrX7vK_Xo91IdtWT76Qh1",
     "mapName": "Lune",
     "player": "noiszia",
@@ -26673,17 +26684,6 @@
     "campaign": "TOTD 2025-11",
     "link": "https://trackmania.io/#/leaderboard/6DL4fbBrX7vK_Xo91IdtWT76Qh1",
     "timeSec": 53.435
-  },
-  {
-    "mapUid": "bNvoo1dSHxjk5JWj9PX66y2mXIh",
-    "mapName": "Melting Point  | ft Drifter",
-    "player": "arjantm",
-    "scoreMs": 54845,
-    "date": "2025-11-25T21:14:10Z",
-    "ageDays": 171,
-    "campaign": "TOTD 2024-09",
-    "link": "https://trackmania.io/#/leaderboard/bNvoo1dSHxjk5JWj9PX66y2mXIh",
-    "timeSec": 54.845
   },
   {
     "mapUid": "7fhWA2IieiLaZ1WQvUH1E4sgpml",
@@ -27577,6 +27577,17 @@
     "timeSec": 33.443
   },
   {
+    "mapUid": "lD_igtNjrujFLZe3kgWxV85aGYj",
+    "mapName": "Fall 2025 - 25",
+    "player": "mime-",
+    "scoreMs": 62081,
+    "date": "2026-01-17T21:04:15Z",
+    "ageDays": 119,
+    "campaign": "Fall 2025",
+    "link": "https://trackmania.io/#/leaderboard/lD_igtNjrujFLZe3kgWxV85aGYj",
+    "timeSec": 62.081
+  },
+  {
     "mapUid": "Ks1nZuEuUKqqRwy2m9OmtHOHYg9",
     "mapName": "* Roll The Dice *",
     "player": "Spammiej",
@@ -27597,17 +27608,6 @@
     "campaign": "TOTD 2026-01",
     "link": "https://trackmania.io/#/leaderboard/ZYkJTnd9Y3FqHrP8uKcWnIxecCl",
     "timeSec": 40.508
-  },
-  {
-    "mapUid": "lD_igtNjrujFLZe3kgWxV85aGYj",
-    "mapName": "Fall 2025 - 25",
-    "player": "mime-",
-    "scoreMs": 62081,
-    "date": "2026-01-17T21:04:15Z",
-    "ageDays": 118,
-    "campaign": "Fall 2025",
-    "link": "https://trackmania.io/#/leaderboard/lD_igtNjrujFLZe3kgWxV85aGYj",
-    "timeSec": 62.081
   },
   {
     "mapUid": "FfGZ1jQZvUuO3eVdtxGccTyKKsm",
@@ -29249,6 +29249,17 @@
     "timeSec": 39.308
   },
   {
+    "mapUid": "8elIE5tBmTkuxJaX9bniSkPkU45",
+    "mapName": "Winter 2026 - 18",
+    "player": "LordQuacked",
+    "scoreMs": 52948,
+    "date": "2026-04-11T21:05:00Z",
+    "ageDays": 35,
+    "campaign": "Winter 2026",
+    "link": "https://trackmania.io/#/leaderboard/8elIE5tBmTkuxJaX9bniSkPkU45",
+    "timeSec": 52.948
+  },
+  {
     "mapUid": "DLcN1MPPJRiLaySQiMBA4fIuO2k",
     "mapName": "Winter 2024 - 17",
     "player": "eepySokrat",
@@ -29280,17 +29291,6 @@
     "campaign": "Winter 2026",
     "link": "https://trackmania.io/#/leaderboard/KRelvYHRjEQoqnkJ_Th8FLKzTsg",
     "timeSec": 19.348
-  },
-  {
-    "mapUid": "8elIE5tBmTkuxJaX9bniSkPkU45",
-    "mapName": "Winter 2026 - 18",
-    "player": "LordQuacked",
-    "scoreMs": 52948,
-    "date": "2026-04-11T21:05:00Z",
-    "ageDays": 34,
-    "campaign": "Winter 2026",
-    "link": "https://trackmania.io/#/leaderboard/8elIE5tBmTkuxJaX9bniSkPkU45",
-    "timeSec": 52.948
   },
   {
     "mapUid": "OOTv5T22Vu9_g5b4dLJV5DbxVZ4",
