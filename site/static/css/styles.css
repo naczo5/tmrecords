@@ -144,7 +144,7 @@ h1 {
     padding: 18px;
 }
 
-.metric span {
+.metric > span {
     display: block;
     color: var(--muted);
     font-size: 0.82rem;
