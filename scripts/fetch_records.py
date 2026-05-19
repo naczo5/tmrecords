@@ -19,7 +19,6 @@ CORE_BASE_URL = "https://prod.trackmania.core.nadeo.online"
 TM_API_BASE_URL = "https://api.trackmania.com"
 UBI_APP_ID = "86263886-327a-4328-ac69-527f0d20a237"
 DEFAULT_USER_AGENT = "TM Records Tracker / https://github.com/naczo5/tmrecords"
-RELEVANT_CHANGE_DAYS = 1095
 
 
 class FetchWarning:
@@ -360,8 +359,6 @@ def build_recent_changes(previous_records, new_records, existing_changes):
         old = old_by_uid.get(record.get("mapUid"))
         if not old:
             continue
-        if int(old.get("ageDays", 0)) < RELEVANT_CHANGE_DAYS:
-            continue
         if int(record.get("scoreMs", 0)) >= int(old.get("scoreMs", 0)):
             continue
 
@@ -383,8 +380,8 @@ def build_recent_changes(previous_records, new_records, existing_changes):
         seen.add(key)
         deduped.append(item)
 
-    deduped.sort(key=lambda item: item.get("changeDate") or item.get("date") or "", reverse=True)
-    return deduped[:100]
+    deduped.sort(key=lambda item: item.get("date") or item.get("changeDate") or "", reverse=True)
+    return deduped
 
 
 def main():

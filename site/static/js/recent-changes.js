@@ -1,34 +1,73 @@
 class RecentChangesPage {
+    constructor() {
+        this.allChanges = [];
+        this.filteredChanges = [];
+    }
+
     async init() {
         await Promise.all([this.loadChanges(), renderLastUpdate()]);
+        this.bindEvents();
     }
 
     async loadChanges() {
-        const changes = await loadJson(DATA_PATHS.recentChanges, []);
-        changes.sort((a, b) => new Date(b.changeDate || b.date).getTime() - new Date(a.changeDate || a.date).getTime());
-        this.render(changes);
+        this.allChanges = await loadJson(DATA_PATHS.recentChanges, []);
+        this.allChanges.sort((a, b) => this.getSortTime(b) - this.getSortTime(a));
+        this.applyFilters();
     }
 
-    render(changes) {
+    bindEvents() {
+        document.getElementById("standingFilter").addEventListener("change", () => this.applyFilters());
+    }
+
+    applyFilters() {
+        const minimumStanding = Number(document.getElementById("standingFilter").value || 0);
+
+        this.filteredChanges = this.allChanges.filter((change) => {
+            return Number(change.daysStanding || 0) >= minimumStanding;
+        });
+
+        this.render();
+    }
+
+    getSortTime(change) {
+        const recordSetTime = new Date(change.date).getTime();
+        if (!Number.isNaN(recordSetTime)) {
+            return recordSetTime;
+        }
+
+        const detectionTime = new Date(change.changeDate).getTime();
+        return Number.isNaN(detectionTime) ? 0 : detectionTime;
+    }
+
+    render() {
         const container = document.getElementById("changesContainer");
 
-        if (changes.length === 0) {
+        if (this.allChanges.length === 0) {
             container.innerHTML = `
                 <div class="panel empty-state">
-                    No recent long-standing records have been beaten.
+                    No recent records have been beaten.
                 </div>
             `;
             return;
         }
 
-        container.innerHTML = changes.map((change) => `
+        if (this.filteredChanges.length === 0) {
+            container.innerHTML = `
+                <div class="panel empty-state">
+                    No recent changes match this standing-time filter.
+                </div>
+            `;
+            return;
+        }
+
+        container.innerHTML = this.filteredChanges.map((change) => `
             <article class="panel change-card">
                 <div class="change-header">
                     <div>
                         <h2 class="change-title">${escapeHtml(change.mapName)}</h2>
                         <p class="change-meta">${escapeHtml(change.campaign)} · stood for ${Number(change.daysStanding || 0).toLocaleString()} days</p>
                     </div>
-                    <p class="change-date">${relativeTime(change.changeDate || change.date)}</p>
+                    <p class="change-date">${relativeTime(change.date || change.changeDate)}</p>
                 </div>
                 <div class="comparison">
                     <div class="record-box">
