@@ -1,5 +1,37 @@
 [
   {
+    "mapUid": "OiobzwL_LDOSfEu6fIuyC0H0Q5b",
+    "mapName": "Apricot  Westcomb",
+    "player": "fitnafs",
+    "scoreMs": 40117,
+    "date": "2026-05-19T19:17:24Z",
+    "ageDays": 0,
+    "campaign": "TOTD 2023-01",
+    "link": "https://trackmania.io/#/leaderboard/OiobzwL_LDOSfEu6fIuyC0H0Q5b",
+    "timeSec": 40.117,
+    "previousTime": 40217,
+    "previousPlayer": "josh1248",
+    "daysStanding": 971,
+    "improvement": 100,
+    "changeDate": "2026-05-20T04:42:40Z"
+  },
+  {
+    "mapUid": "VvBc6cBetVvxtzZyrA1ZeZNR665",
+    "mapName": "Spring 2026 - 16",
+    "player": "Kovalc",
+    "scoreMs": 37526,
+    "date": "2026-05-19T18:15:39Z",
+    "ageDays": 0,
+    "campaign": "Spring 2026",
+    "link": "https://trackmania.io/#/leaderboard/VvBc6cBetVvxtzZyrA1ZeZNR665",
+    "timeSec": 37.526,
+    "previousTime": 37636,
+    "previousPlayer": "Kovalc",
+    "daysStanding": 0,
+    "improvement": 110,
+    "changeDate": "2026-05-20T04:42:40Z"
+  },
+  {
     "mapUid": "VvBc6cBetVvxtzZyrA1ZeZNR665",
     "mapName": "Spring 2026 - 16",
     "player": "Kovalc",
