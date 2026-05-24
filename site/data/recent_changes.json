@@ -1,5 +1,37 @@
 [
   {
+    "mapUid": "rb0S4yVKDkuT4ZTPpEvSios8Pba",
+    "mapName": "Crosion ft Kcedus",
+    "player": "Roquett",
+    "scoreMs": 47705,
+    "date": "2026-05-23T21:28:20Z",
+    "ageDays": 0,
+    "campaign": "TOTD 2026-05",
+    "link": "https://trackmania.io/#/leaderboard/rb0S4yVKDkuT4ZTPpEvSios8Pba",
+    "timeSec": 47.705,
+    "previousTime": 47712,
+    "previousPlayer": "Utenglutenguten",
+    "daysStanding": 1,
+    "improvement": 7,
+    "changeDate": "2026-05-24T04:43:27Z"
+  },
+  {
+    "mapUid": "pz8KoF3du8JLj3eqLglRKRphlGk",
+    "mapName": "Mount Fishmore",
+    "player": "Mattlightning",
+    "scoreMs": 42355,
+    "date": "2026-05-23T15:11:12Z",
+    "ageDays": 0,
+    "campaign": "TOTD 2026-05",
+    "link": "https://trackmania.io/#/leaderboard/pz8KoF3du8JLj3eqLglRKRphlGk",
+    "timeSec": 42.355,
+    "previousTime": 42485,
+    "previousPlayer": "Mattlightning",
+    "daysStanding": 0,
+    "improvement": 130,
+    "changeDate": "2026-05-24T04:43:27Z"
+  },
+  {
     "mapUid": "3rzdCmhkba8Y94KXyyROvnkz26a",
     "mapName": "Spring 2026 - 06",
     "player": "hobbi.",
