@@ -1,5 +1,37 @@
 [
   {
+    "mapUid": "xhk5p9ZAd4CsARwXmSV4kPrShi0",
+    "mapName": "ng_ring",
+    "player": "LOVEMACHINE731",
+    "scoreMs": 46811,
+    "date": "2026-05-29T15:04:03Z",
+    "ageDays": 0,
+    "campaign": "TOTD 2026-05",
+    "link": "https://trackmania.io/#/leaderboard/xhk5p9ZAd4CsARwXmSV4kPrShi0",
+    "timeSec": 46.811,
+    "previousTime": 46832,
+    "previousPlayer": "purple_tm",
+    "daysStanding": 0,
+    "improvement": 21,
+    "changeDate": "2026-05-29T16:16:24Z"
+  },
+  {
+    "mapUid": "2AIh0EtzQYZV75rl0_sAwuLCAhd",
+    "mapName": "Spring 2026 - 08",
+    "player": "EnderSoldier",
+    "scoreMs": 20632,
+    "date": "2026-05-29T13:31:56Z",
+    "ageDays": 0,
+    "campaign": "Spring 2026",
+    "link": "https://trackmania.io/#/leaderboard/2AIh0EtzQYZV75rl0_sAwuLCAhd",
+    "timeSec": 20.632,
+    "previousTime": 20637,
+    "previousPlayer": "ilkertarded",
+    "daysStanding": 14,
+    "improvement": 5,
+    "changeDate": "2026-05-29T16:16:24Z"
+  },
+  {
     "mapUid": "YjdVxZlrR85ebY_7vr1ihNkElyj",
     "mapName": "Spring 2026 - 01",
     "player": "LimaTM",
