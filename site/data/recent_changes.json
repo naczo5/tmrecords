@@ -1,5 +1,37 @@
 [
   {
+    "mapUid": "6JdbJRDbozTpwcMP__My77cOqOh",
+    "mapName": "Spring 2026 - 17",
+    "player": "Miguelinio",
+    "scoreMs": 40026,
+    "date": "2026-05-29T23:46:14Z",
+    "ageDays": 0,
+    "campaign": "Spring 2026",
+    "link": "https://trackmania.io/#/leaderboard/6JdbJRDbozTpwcMP__My77cOqOh",
+    "timeSec": 40.026,
+    "previousTime": 40038,
+    "previousPlayer": "CarlJr.",
+    "daysStanding": 40,
+    "improvement": 12,
+    "changeDate": "2026-05-30T04:22:17Z"
+  },
+  {
+    "mapUid": "2AIh0EtzQYZV75rl0_sAwuLCAhd",
+    "mapName": "Spring 2026 - 08",
+    "player": "OVER_dsbdsbds",
+    "scoreMs": 20513,
+    "date": "2026-05-29T18:55:35Z",
+    "ageDays": 0,
+    "campaign": "Spring 2026",
+    "link": "https://trackmania.io/#/leaderboard/2AIh0EtzQYZV75rl0_sAwuLCAhd",
+    "timeSec": 20.513,
+    "previousTime": 20632,
+    "previousPlayer": "EnderSoldier",
+    "daysStanding": 0,
+    "improvement": 119,
+    "changeDate": "2026-05-30T04:22:17Z"
+  },
+  {
     "mapUid": "xhk5p9ZAd4CsARwXmSV4kPrShi0",
     "mapName": "ng_ring",
     "player": "LOVEMACHINE731",
