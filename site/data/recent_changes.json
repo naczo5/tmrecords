@@ -1,5 +1,37 @@
 [
   {
+    "mapUid": "kf6bG3cRu_Ncp7fENx8hOc18fNd",
+    "mapName": "Spring 2026 - 05",
+    "player": "LordQuacked",
+    "scoreMs": 24735,
+    "date": "2026-06-15T22:16:52Z",
+    "ageDays": 0,
+    "campaign": "Spring 2026",
+    "link": "https://trackmania.io/#/leaderboard/kf6bG3cRu_Ncp7fENx8hOc18fNd",
+    "timeSec": 24.735,
+    "previousTime": 24744,
+    "previousPlayer": "hobbi.",
+    "daysStanding": 51,
+    "improvement": 9,
+    "changeDate": "2026-06-16T05:40:54Z"
+  },
+  {
+    "mapUid": "LflrxaDn56wnXKxe0cGmh1_QrS4",
+    "mapName": "PRIDE26 - Buoyant",
+    "player": "Flyer36",
+    "scoreMs": 43395,
+    "date": "2026-06-15T19:02:39Z",
+    "ageDays": 0,
+    "campaign": "TOTD 2026-06",
+    "link": "https://trackmania.io/#/leaderboard/LflrxaDn56wnXKxe0cGmh1_QrS4",
+    "timeSec": 43.395,
+    "previousTime": 43758,
+    "previousPlayer": "Hendo22_",
+    "daysStanding": 9,
+    "improvement": 363,
+    "changeDate": "2026-06-16T05:40:54Z"
+  },
+  {
     "mapUid": "u6agE2zFtDkY8DwVwZEkSwWoZ1",
     "mapName": "MTC-Hydrangea Delivery",
     "player": "Mattlightning",
