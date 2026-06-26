@@ -1,5 +1,37 @@
 [
   {
+    "mapUid": "Oea3r3A1Tq3Mwk8gXWapEqQ60b6",
+    "mapName": "Marsupial Garden",
+    "player": "r3.rist",
+    "scoreMs": 41546,
+    "date": "2026-06-26T14:25:27Z",
+    "ageDays": 0,
+    "campaign": "TOTD 2026-06",
+    "link": "https://trackmania.io/#/leaderboard/Oea3r3A1Tq3Mwk8gXWapEqQ60b6",
+    "timeSec": 41.546,
+    "previousTime": 41626,
+    "previousPlayer": "r3.rist",
+    "daysStanding": 0,
+    "improvement": 80,
+    "changeDate": "2026-06-26T14:56:51Z"
+  },
+  {
+    "mapUid": "p1eEqNonyftdneHUE1XpskyOdC4",
+    "mapName": "Spring 2026 - 15",
+    "player": "hobbi.",
+    "scoreMs": 30398,
+    "date": "2026-06-26T13:20:18Z",
+    "ageDays": 0,
+    "campaign": "Spring 2026",
+    "link": "https://trackmania.io/#/leaderboard/p1eEqNonyftdneHUE1XpskyOdC4",
+    "timeSec": 30.398,
+    "previousTime": 30408,
+    "previousPlayer": "LimaTM",
+    "daysStanding": 0,
+    "improvement": 10,
+    "changeDate": "2026-06-26T14:56:51Z"
+  },
+  {
     "mapUid": "p1eEqNonyftdneHUE1XpskyOdC4",
     "mapName": "Spring 2026 - 15",
     "player": "LimaTM",
