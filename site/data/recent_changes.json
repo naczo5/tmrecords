@@ -1,5 +1,37 @@
 [
   {
+    "mapUid": "gFlB4nqJf8TPK0rugCsUPWU2tDf",
+    "mapName": "Blueberry Rush",
+    "player": "JussyDr",
+    "scoreMs": 47156,
+    "date": "2026-06-28T11:52:34Z",
+    "ageDays": 0,
+    "campaign": "TOTD 2026-06",
+    "link": "https://trackmania.io/#/leaderboard/gFlB4nqJf8TPK0rugCsUPWU2tDf",
+    "timeSec": 47.156,
+    "previousTime": 47204,
+    "previousPlayer": "shark.___",
+    "daysStanding": 0,
+    "improvement": 48,
+    "changeDate": "2026-06-28T14:24:04Z"
+  },
+  {
+    "mapUid": "HaMjnZpGGFjk6MI_B9rse9eFoTe",
+    "mapName": "Spring 2026 - 14",
+    "player": "hobbi.",
+    "scoreMs": 32386,
+    "date": "2026-06-28T09:03:18Z",
+    "ageDays": 0,
+    "campaign": "Spring 2026",
+    "link": "https://trackmania.io/#/leaderboard/HaMjnZpGGFjk6MI_B9rse9eFoTe",
+    "timeSec": 32.386,
+    "previousTime": 32401,
+    "previousPlayer": "SaboJr..",
+    "daysStanding": 4,
+    "improvement": 15,
+    "changeDate": "2026-06-28T14:24:04Z"
+  },
+  {
     "mapUid": "kEUOPQLJmXPFXeQ78T02zE5ST7d",
     "mapName": "Spring 2026 - 13",
     "player": "Amalia.TM",
