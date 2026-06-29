@@ -1,5 +1,37 @@
 [
   {
+    "mapUid": "yUxNoeHM07t6G5DMpTHkBJ_Ywe9",
+    "mapName": "Spring 2023 - 11",
+    "player": "ShcrTM",
+    "scoreMs": 29942,
+    "date": "2026-06-29T03:14:56Z",
+    "ageDays": 0,
+    "campaign": "Spring 2023",
+    "link": "https://trackmania.io/#/leaderboard/yUxNoeHM07t6G5DMpTHkBJ_Ywe9",
+    "timeSec": 29.942,
+    "previousTime": 29964,
+    "previousPlayer": "WashedNowa",
+    "daysStanding": 124,
+    "improvement": 22,
+    "changeDate": "2026-06-29T05:06:40Z"
+  },
+  {
+    "mapUid": "5TiCq55OkXkxXgEqP9HBBlX60_n",
+    "mapName": "Winter 2022 - 04",
+    "player": "inarmyfor1year",
+    "scoreMs": 22431,
+    "date": "2026-06-28T22:01:46Z",
+    "ageDays": 0,
+    "campaign": "Winter 2022",
+    "link": "https://trackmania.io/#/leaderboard/5TiCq55OkXkxXgEqP9HBBlX60_n",
+    "timeSec": 22.431,
+    "previousTime": 22434,
+    "previousPlayer": "KarjeN",
+    "daysStanding": 1625,
+    "improvement": 3,
+    "changeDate": "2026-06-29T05:06:40Z"
+  },
+  {
     "mapUid": "gFlB4nqJf8TPK0rugCsUPWU2tDf",
     "mapName": "Blueberry Rush",
     "player": "JussyDr",
