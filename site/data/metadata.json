@@ -1,9 +1,12 @@
 {
-  "lastUpdate": "2026-07-06T04:43:52Z",
-  "recordCount": 2821,
-  "recentChangeCount": 235,
-  "warningCount": 0,
-  "warnings": [],
-  "durationSeconds": 348.86,
+  "lastUpdate": "2026-07-06T16:00:11Z",
+  "recordCount": 2819,
+  "recentChangeCount": 240,
+  "warningCount": 2,
+  "warnings": [
+    "leaderboard request failed for V9VX8WQg_8IBlI5Hdu1ManH2Gs2: 502",
+    "leaderboard request failed for Ym6425g4lKwhAqeS5zVr52A_tL3: 502"
+  ],
+  "durationSeconds": 376.54,
   "generatedBy": "scripts/fetch_records.py"
 }
