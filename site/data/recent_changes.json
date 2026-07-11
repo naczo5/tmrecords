@@ -1,5 +1,37 @@
 [
   {
+    "mapUid": "H8bdbNK97Ylqwe2NWt7j5nExPog",
+    "mapName": "Japan 2026",
+    "player": "Bepeze",
+    "scoreMs": 75458,
+    "date": "2026-07-11T00:31:08Z",
+    "ageDays": 0,
+    "campaign": "Summer 2026",
+    "link": "https://trackmania.io/#/leaderboard/H8bdbNK97Ylqwe2NWt7j5nExPog",
+    "timeSec": 75.458,
+    "previousTime": 75918,
+    "previousPlayer": "propanoia",
+    "daysStanding": 7,
+    "improvement": 460,
+    "changeDate": "2026-07-11T03:48:03Z"
+  },
+  {
+    "mapUid": "hkWA4HB3Y_oA3BkhTOJ_16PsQO8",
+    "mapName": "Argentina 2026",
+    "player": "Cinxsss",
+    "scoreMs": 73107,
+    "date": "2026-07-10T23:54:01Z",
+    "ageDays": 0,
+    "campaign": "Summer 2026",
+    "link": "https://trackmania.io/#/leaderboard/hkWA4HB3Y_oA3BkhTOJ_16PsQO8",
+    "timeSec": 73.107,
+    "previousTime": 73155,
+    "previousPlayer": "twist__",
+    "daysStanding": 2,
+    "improvement": 48,
+    "changeDate": "2026-07-11T03:48:03Z"
+  },
+  {
     "mapUid": "v_2z3U5J1xzvZTnDmnXDvvweon3",
     "mapName": "Summer 2026 - 14",
     "player": "DarkestSentinel",
