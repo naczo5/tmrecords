@@ -1,5 +1,37 @@
 [
   {
+    "mapUid": "We3dEN_W6PYuEnYY90G8ZBBjXLh",
+    "mapName": "Winter 2021 - 23",
+    "player": "ShcrTM",
+    "scoreMs": 60078,
+    "date": "2026-07-15T21:00:31Z",
+    "ageDays": 0,
+    "campaign": "Winter 2021",
+    "link": "https://trackmania.io/#/leaderboard/We3dEN_W6PYuEnYY90G8ZBBjXLh",
+    "timeSec": 60.078,
+    "previousTime": 60082,
+    "previousPlayer": "Gwenn.",
+    "daysStanding": 1967,
+    "improvement": 4,
+    "changeDate": "2026-07-16T03:44:07Z"
+  },
+  {
+    "mapUid": "Mh7eoeVIlpNQ5_5PC95aaAjHq59",
+    "mapName": "Valhalla",
+    "player": "Telephone.Line",
+    "scoreMs": 43590,
+    "date": "2026-07-15T17:32:04Z",
+    "ageDays": 0,
+    "campaign": "TOTD 2023-05",
+    "link": "https://trackmania.io/#/leaderboard/Mh7eoeVIlpNQ5_5PC95aaAjHq59",
+    "timeSec": 43.59,
+    "previousTime": 43620,
+    "previousPlayer": "Telephone.Line",
+    "daysStanding": 80,
+    "improvement": 30,
+    "changeDate": "2026-07-16T03:44:07Z"
+  },
+  {
     "mapUid": "dasm3lJIt4jzbHOB9ObDEmvI9pc",
     "mapName": "Calvert Drain",
     "player": "Quinn22b1.",
