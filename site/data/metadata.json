@@ -1,9 +1,13 @@
 {
-  "lastUpdate": "2026-07-22T03:51:25Z",
-  "recordCount": 2837,
+  "lastUpdate": "2026-07-22T14:27:52Z",
+  "recordCount": 2834,
   "recentChangeCount": 321,
-  "warningCount": 0,
-  "warnings": [],
-  "durationSeconds": 378.17,
+  "warningCount": 3,
+  "warnings": [
+    "leaderboard request failed for rCgZrvWL4jPMmRoyiZuz3WN3jh2: 502",
+    "leaderboard request failed for q6aF_31hvqqyzn8grNVmX628lr2: 502",
+    "leaderboard request failed for k69WTtdZbM7sIn4HmHuWyBlXekm: 502"
+  ],
+  "durationSeconds": 399.69,
   "generatedBy": "scripts/fetch_records.py"
 }
