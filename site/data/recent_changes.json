@@ -1,5 +1,37 @@
 [
   {
+    "mapUid": "_allkPCDNXTx2ech7txHuAvvpfd",
+    "mapName": "Atrick's Paradise",
+    "player": "Telephone.Line",
+    "scoreMs": 41243,
+    "date": "2026-07-24T01:36:31Z",
+    "ageDays": 0,
+    "campaign": "TOTD 2024-06",
+    "link": "https://trackmania.io/#/leaderboard/_allkPCDNXTx2ech7txHuAvvpfd",
+    "timeSec": 41.243,
+    "previousTime": 41258,
+    "previousPlayer": "Telephone.Line",
+    "daysStanding": 34,
+    "improvement": 15,
+    "changeDate": "2026-07-24T03:49:27Z"
+  },
+  {
+    "mapUid": "R5bZf5QUFjKSN767_xC1GT4yVka",
+    "mapName": "millennium",
+    "player": "Scrapie98",
+    "scoreMs": 42446,
+    "date": "2026-07-23T18:51:37Z",
+    "ageDays": 0,
+    "campaign": "TOTD 2021-05",
+    "link": "https://trackmania.io/#/leaderboard/R5bZf5QUFjKSN767_xC1GT4yVka",
+    "timeSec": 42.446,
+    "previousTime": 42492,
+    "previousPlayer": "Otaaaq",
+    "daysStanding": 1895,
+    "improvement": 46,
+    "changeDate": "2026-07-24T03:49:27Z"
+  },
+  {
     "mapUid": "CEeRuRAw6E4hdRfnZEwn1XMe235",
     "mapName": "Poland 2026",
     "player": "Nathan_....",
