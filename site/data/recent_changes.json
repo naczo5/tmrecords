@@ -1,5 +1,37 @@
 [
   {
+    "mapUid": "MrRCkcDMLUCEFb_tOVquORlaME8",
+    "mapName": "Summer 2026 - 11",
+    "player": "Aly-Jr.",
+    "scoreMs": 36387,
+    "date": "2026-07-26T02:07:50Z",
+    "ageDays": 0,
+    "campaign": "Summer 2026",
+    "link": "https://trackmania.io/#/leaderboard/MrRCkcDMLUCEFb_tOVquORlaME8",
+    "timeSec": 36.387,
+    "previousTime": 36400,
+    "previousPlayer": "SM.Lemonade",
+    "daysStanding": 19,
+    "improvement": 13,
+    "changeDate": "2026-07-26T04:01:11Z"
+  },
+  {
+    "mapUid": "6fhmufQJh2EUZI36i6CiE9vvule",
+    "mapName": "Summer 2026 - 02",
+    "player": "hobbi.",
+    "scoreMs": 22730,
+    "date": "2026-07-25T15:25:31Z",
+    "ageDays": 0,
+    "campaign": "Summer 2026",
+    "link": "https://trackmania.io/#/leaderboard/6fhmufQJh2EUZI36i6CiE9vvule",
+    "timeSec": 22.73,
+    "previousTime": 22741,
+    "previousPlayer": "zuqqTM",
+    "daysStanding": 0,
+    "improvement": 11,
+    "changeDate": "2026-07-26T04:01:11Z"
+  },
+  {
     "mapUid": "uDedD3SpBBrkjB3CoCPU_8ZD5M9",
     "mapName": "Tempest Tangle",
     "player": "NablaTM",
