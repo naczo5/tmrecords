@@ -1,5 +1,37 @@
 [
   {
+    "mapUid": "p5xL9t6n7l1xh1z_b85WU4AkoL6",
+    "mapName": "A Moment of Clarity",
+    "player": "atrick.",
+    "scoreMs": 44530,
+    "date": "2026-08-03T00:24:18Z",
+    "ageDays": 0,
+    "campaign": "TOTD 2023-05",
+    "link": "https://trackmania.io/#/leaderboard/p5xL9t6n7l1xh1z_b85WU4AkoL6",
+    "timeSec": 44.53,
+    "previousTime": 44581,
+    "previousPlayer": "Telephone.Line",
+    "daysStanding": 117,
+    "improvement": 51,
+    "changeDate": "2026-08-03T04:01:40Z"
+  },
+  {
+    "mapUid": "gr7VZGZwvXqoaA0T2Zf_jplDwH2",
+    "mapName": "Summer 2026 - 17",
+    "player": "Nodd_",
+    "scoreMs": 42970,
+    "date": "2026-08-02T23:31:38Z",
+    "ageDays": 0,
+    "campaign": "Summer 2026",
+    "link": "https://trackmania.io/#/leaderboard/gr7VZGZwvXqoaA0T2Zf_jplDwH2",
+    "timeSec": 42.97,
+    "previousTime": 42980,
+    "previousPlayer": "hobbi.",
+    "daysStanding": 22,
+    "improvement": 10,
+    "changeDate": "2026-08-03T04:01:40Z"
+  },
+  {
     "mapUid": "Et1IVfZ6A59U6G_Bqx2UZ8pFw_g",
     "mapName": "Bear's Valley",
     "player": "Itz.Iced",
