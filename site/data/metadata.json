@@ -1,9 +1,13 @@
 {
-  "lastUpdate": "2026-08-06T14:39:19Z",
-  "recordCount": 2852,
-  "recentChangeCount": 374,
-  "warningCount": 0,
-  "warnings": [],
-  "durationSeconds": 334.87,
+  "lastUpdate": "2026-08-07T03:21:57Z",
+  "recordCount": 2850,
+  "recentChangeCount": 378,
+  "warningCount": 3,
+  "warnings": [
+    "leaderboard request failed for TFH_4_Lobby_COTD________DAY: 502",
+    "leaderboard request failed for bc_iVQdCTvYH9MBMp9qufB9eOcc: 502",
+    "leaderboard request failed for _Zb3425lJYfs6hpLmwBbT1w3p84: 502"
+  ],
+  "durationSeconds": 469.68,
   "generatedBy": "scripts/fetch_records.py"
 }
