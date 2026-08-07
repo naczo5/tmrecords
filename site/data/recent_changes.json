@@ -1,5 +1,37 @@
 [
   {
+    "mapUid": "1ecs2gVgBz5xanlGa4GywRvcThd",
+    "mapName": "[REVIVAL] - PASSION",
+    "player": "twist__",
+    "scoreMs": 42681,
+    "date": "2026-08-07T12:16:23Z",
+    "ageDays": 0,
+    "campaign": "TOTD 2024-09",
+    "link": "https://trackmania.io/#/leaderboard/1ecs2gVgBz5xanlGa4GywRvcThd",
+    "timeSec": 42.681,
+    "previousTime": 42858,
+    "previousPlayer": "abcol1",
+    "daysStanding": 209,
+    "improvement": 177,
+    "changeDate": "2026-08-07T13:46:01Z"
+  },
+  {
+    "mapUid": "3Fy7oUXKVF2CiSkNPzA6nHOpmM7",
+    "mapName": "Ueachable",
+    "player": "Roquett",
+    "scoreMs": 47137,
+    "date": "2026-08-07T03:44:12Z",
+    "ageDays": 0,
+    "campaign": "TOTD 2026-08",
+    "link": "https://trackmania.io/#/leaderboard/3Fy7oUXKVF2CiSkNPzA6nHOpmM7",
+    "timeSec": 47.137,
+    "previousTime": 47155,
+    "previousPlayer": "piranha..",
+    "daysStanding": 0,
+    "improvement": 18,
+    "changeDate": "2026-08-07T13:46:01Z"
+  },
+  {
     "mapUid": "TU6cxKQhU2SwXNV2MYZjquLJXBa",
     "mapName": "Crowd Favorite",
     "player": "r3.rist",
