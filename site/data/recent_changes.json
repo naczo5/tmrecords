@@ -1,5 +1,37 @@
 [
   {
+    "mapUid": "kVcCPBGhvjoFaTsc7u_ec9Y_Z5d",
+    "mapName": "aspoon reflection",
+    "player": "LinkMaxTm",
+    "scoreMs": 43608,
+    "date": "2026-08-09T10:17:32Z",
+    "ageDays": 0,
+    "campaign": "TOTD 2026-08",
+    "link": "https://trackmania.io/#/leaderboard/kVcCPBGhvjoFaTsc7u_ec9Y_Z5d",
+    "timeSec": 43.608,
+    "previousTime": 44006,
+    "previousPlayer": "LyRooZ.",
+    "daysStanding": 0,
+    "improvement": 398,
+    "changeDate": "2026-08-09T13:23:21Z"
+  },
+  {
+    "mapUid": "I1HRBvcZzxRW3XMwN_Ix0gE3qv9",
+    "mapName": "Summer 2026 - 10",
+    "player": "glidurr.",
+    "scoreMs": 30864,
+    "date": "2026-08-09T02:33:55Z",
+    "ageDays": 0,
+    "campaign": "Summer 2026",
+    "link": "https://trackmania.io/#/leaderboard/I1HRBvcZzxRW3XMwN_Ix0gE3qv9",
+    "timeSec": 30.864,
+    "previousTime": 30881,
+    "previousPlayer": "Mattlightning",
+    "daysStanding": 25,
+    "improvement": 17,
+    "changeDate": "2026-08-09T13:23:21Z"
+  },
+  {
     "mapUid": "EUpykA2NX3mQE5RtLSpEsME8Ckd",
     "mapName": "Nora Alarma",
     "player": "Telephone.Line",
