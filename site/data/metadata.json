@@ -1,25 +1,9 @@
 {
-  "lastUpdate": "2026-08-10T02:40:25Z",
-  "recordCount": 2841,
-  "recentChangeCount": 393,
-  "warningCount": 15,
-  "warnings": [
-    "leaderboard request failed for pUDHsmtx69VRlWqJdmh5TrXlcH3: 502",
-    "leaderboard request failed for WDLFr_SIxys7spEm6J6Wu27fi_6: 502",
-    "leaderboard request failed for o0UoD4H2kRKwaILPmorLR60Ckud: 502",
-    "leaderboard request failed for jSnftUilzQCXzhFYjm6w36EFH88: 502",
-    "leaderboard request failed for FNyblA5g6KsP6gUwxEFmskWcs_4: 502",
-    "leaderboard request failed for XLrKJ_74tvv5qELZYYVWEu2MFLm: 502",
-    "leaderboard request failed for TSbWkZfUwCSIiR2Vjd4NBY1jvPg: 502",
-    "leaderboard request failed for hLN3R4bnqRYce3MVfG_fUSBHPCk: 502",
-    "leaderboard request failed for E65CErMWSQBqUQz8Pd8evPz1QDc: 502",
-    "leaderboard request failed for zEZHFfu7Ie5WHeYoogI3IAx37J0: 502",
-    "leaderboard request failed for oXRrgfMJFx_HzTZiW4zv0zDZ8Bc: 502",
-    "leaderboard request failed for vTDHHRQHSG3GFjUiiopg7YhGHh1: 502",
-    "leaderboard request failed for 5vHhWTH9RmsoX5yj949bGudzR05: 502",
-    "leaderboard request failed for q6aF_31hvqqyzn8grNVmX628lr2: 502",
-    "leaderboard request failed for 5JWnccZiVLjIGDT0hdAtGxXTrgk: 502"
-  ],
-  "durationSeconds": 416.2,
+  "lastUpdate": "2026-08-10T13:48:53Z",
+  "recordCount": 2856,
+  "recentChangeCount": 396,
+  "warningCount": 0,
+  "warnings": [],
+  "durationSeconds": 381.2,
   "generatedBy": "scripts/fetch_records.py"
 }
