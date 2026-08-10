@@ -1,5 +1,37 @@
 [
   {
+    "mapUid": "p5xL9t6n7l1xh1z_b85WU4AkoL6",
+    "mapName": "A Moment of Clarity",
+    "player": "Telephone.Line",
+    "scoreMs": 44503,
+    "date": "2026-08-09T19:32:56Z",
+    "ageDays": 0,
+    "campaign": "TOTD 2023-05",
+    "link": "https://trackmania.io/#/leaderboard/p5xL9t6n7l1xh1z_b85WU4AkoL6",
+    "timeSec": 44.503,
+    "previousTime": 44530,
+    "previousPlayer": "atrick.",
+    "daysStanding": 6,
+    "improvement": 27,
+    "changeDate": "2026-08-10T02:40:25Z"
+  },
+  {
+    "mapUid": "DhZGksZ_O27SfKI_AsDs1eaQRy6",
+    "mapName": "Breezy Peaks",
+    "player": "Telephone.Line",
+    "scoreMs": 38772,
+    "date": "2026-08-09T18:00:27Z",
+    "ageDays": 0,
+    "campaign": "TOTD 2023-07",
+    "link": "https://trackmania.io/#/leaderboard/DhZGksZ_O27SfKI_AsDs1eaQRy6",
+    "timeSec": 38.772,
+    "previousTime": 38776,
+    "previousPlayer": "Fleu..",
+    "daysStanding": 59,
+    "improvement": 4,
+    "changeDate": "2026-08-10T02:40:25Z"
+  },
+  {
     "mapUid": "kVcCPBGhvjoFaTsc7u_ec9Y_Z5d",
     "mapName": "aspoon reflection",
     "player": "LinkMaxTm",
