@@ -1,16 +1,9 @@
 {
-  "lastUpdate": "2026-08-13T13:54:19Z",
-  "recordCount": 2853,
-  "recentChangeCount": 408,
-  "warningCount": 6,
-  "warnings": [
-    "leaderboard request failed for 23TjgtcgWtsOT8c8_YXmStk9yT1: 502",
-    "leaderboard request failed for whR4gqrgMwfXSnAElMli0d16J7h: 502",
-    "leaderboard request failed for bHFtKTGKAmSiUzngSzrGnEhgRzj: 502",
-    "leaderboard request failed for V0HLAzazg1MRNvFaUJiff_X_jo0: 502",
-    "leaderboard request failed for H5jpASfk6hAnL_eCjTcqUc6Qkn9: 502",
-    "leaderboard request failed for VtJmsaPSUHT9gOADWKi4M4CL3tk: 502"
-  ],
-  "durationSeconds": 502.13,
+  "lastUpdate": "2026-08-14T02:50:09Z",
+  "recordCount": 2860,
+  "recentChangeCount": 412,
+  "warningCount": 0,
+  "warnings": [],
+  "durationSeconds": 336.07,
   "generatedBy": "scripts/fetch_records.py"
 }
