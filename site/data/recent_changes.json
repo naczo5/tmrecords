@@ -1,5 +1,37 @@
 [
   {
+    "mapUid": "bmYHDGeNzSZVEQu39ZBOfhAbhE5",
+    "mapName": "TORTUGA",
+    "player": "Yiptuss",
+    "scoreMs": 20355,
+    "date": "2026-08-15T11:45:45Z",
+    "ageDays": 0,
+    "campaign": "TOTD 2021-11",
+    "link": "https://trackmania.io/#/leaderboard/bmYHDGeNzSZVEQu39ZBOfhAbhE5",
+    "timeSec": 20.355,
+    "previousTime": 42518,
+    "previousPlayer": "AR_Down",
+    "daysStanding": 1744,
+    "improvement": 22163,
+    "changeDate": "2026-08-15T13:04:44Z"
+  },
+  {
+    "mapUid": "g7l2eO_x9z4HWGGYj8dVBCDSTEg",
+    "mapName": "-Turn",
+    "player": "Kattz95",
+    "scoreMs": 34361,
+    "date": "2026-08-15T02:56:40Z",
+    "ageDays": 0,
+    "campaign": "TOTD 2020-07",
+    "link": "https://trackmania.io/#/leaderboard/g7l2eO_x9z4HWGGYj8dVBCDSTEg",
+    "timeSec": 34.361,
+    "previousTime": 34913,
+    "previousPlayer": "Insanity.TM",
+    "daysStanding": 470,
+    "improvement": 552,
+    "changeDate": "2026-08-15T13:04:44Z"
+  },
+  {
     "mapUid": "3J8_XXZ110piBlTEdvyxlgcDwSc",
     "mapName": "Pomidore ft' Sanyikaa",
     "player": "Telephone.Line",
