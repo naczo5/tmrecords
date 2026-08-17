@@ -1,5 +1,37 @@
 [
   {
+    "mapUid": "AGdexy0hASGn1OL1YhZ4KhlYgZj",
+    "mapName": "AntFarm",
+    "player": "Kunz..",
+    "scoreMs": 38747,
+    "date": "2026-08-17T10:40:22Z",
+    "ageDays": 0,
+    "campaign": "TOTD 2026-08",
+    "link": "https://trackmania.io/#/leaderboard/AGdexy0hASGn1OL1YhZ4KhlYgZj",
+    "timeSec": 38.747,
+    "previousTime": 38909,
+    "previousPlayer": "Zypher.TM",
+    "daysStanding": 0,
+    "improvement": 162,
+    "changeDate": "2026-08-17T13:10:31Z"
+  },
+  {
+    "mapUid": "tjrtqANqzvTY8ncCAjnzu5JkgCi",
+    "mapName": "Summer 2026 - 20",
+    "player": "Maniaaaac_",
+    "scoreMs": 44743,
+    "date": "2026-08-17T02:10:46Z",
+    "ageDays": 0,
+    "campaign": "Summer 2026",
+    "link": "https://trackmania.io/#/leaderboard/tjrtqANqzvTY8ncCAjnzu5JkgCi",
+    "timeSec": 44.743,
+    "previousTime": 44823,
+    "previousPlayer": "Maniaaaac_",
+    "daysStanding": 17,
+    "improvement": 80,
+    "changeDate": "2026-08-17T13:10:31Z"
+  },
+  {
     "mapUid": "zklKgLWRqrHwKsMSa7vAXqGcbTl",
     "mapName": "Hakuba",
     "player": "pb.y.d",
