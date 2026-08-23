@@ -1,5 +1,37 @@
 [
   {
+    "mapUid": "OpUNMYeOqouJ6LcOIZXTvHBJPE",
+    "mapName": "Fall 2023 - 06",
+    "player": "Kelven.",
+    "scoreMs": 27562,
+    "date": "2026-08-23T00:35:51Z",
+    "ageDays": 0,
+    "campaign": "Fall 2023",
+    "link": "https://trackmania.io/#/leaderboard/OpUNMYeOqouJ6LcOIZXTvHBJPE",
+    "timeSec": 27.562,
+    "previousTime": 27586,
+    "previousPlayer": "WinkyFace-",
+    "daysStanding": 956,
+    "improvement": 24,
+    "changeDate": "2026-08-23T02:07:24Z"
+  },
+  {
+    "mapUid": "WmZ03TdjLsXufgnr4c2zeHFarjj",
+    "mapName": "Summer 2023 - 03",
+    "player": "Rowangutan",
+    "scoreMs": 22285,
+    "date": "2026-08-22T17:30:07Z",
+    "ageDays": 0,
+    "campaign": "Summer 2023",
+    "link": "https://trackmania.io/#/leaderboard/WmZ03TdjLsXufgnr4c2zeHFarjj",
+    "timeSec": 22.285,
+    "previousTime": 22292,
+    "previousPlayer": "zodiark.",
+    "daysStanding": 1095,
+    "improvement": 7,
+    "changeDate": "2026-08-23T02:07:24Z"
+  },
+  {
     "mapUid": "S28eg9FUXBmNxJ7TzAo44hIRyx7",
     "mapName": "Scoopityfloopity ft' Prancer",
     "player": "ComplexStatics_",
