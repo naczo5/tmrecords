@@ -1,5 +1,37 @@
 [
   {
+    "mapUid": "GYmrQeC3cCIjfUjvjvAxMxZT1ec",
+    "mapName": "rough a Glass, Darkly",
+    "player": "Telephone.Line",
+    "scoreMs": 41205,
+    "date": "2026-08-23T23:36:35Z",
+    "ageDays": 0,
+    "campaign": "TOTD 2026-04",
+    "link": "https://trackmania.io/#/leaderboard/GYmrQeC3cCIjfUjvjvAxMxZT1ec",
+    "timeSec": 41.205,
+    "previousTime": 41220,
+    "previousPlayer": "Telephone.Line",
+    "daysStanding": 120,
+    "improvement": 15,
+    "changeDate": "2026-08-24T02:03:15Z"
+  },
+  {
+    "mapUid": "E3iCwrFqXmr4TbDmkJgQGmNnxhb",
+    "mapName": "Summer 2026 - 07",
+    "player": "Steve.the.Bug.",
+    "scoreMs": 23470,
+    "date": "2026-08-23T22:23:45Z",
+    "ageDays": 0,
+    "campaign": "Summer 2026",
+    "link": "https://trackmania.io/#/leaderboard/E3iCwrFqXmr4TbDmkJgQGmNnxhb",
+    "timeSec": 23.47,
+    "previousTime": 23478,
+    "previousPlayer": "hobbi.",
+    "daysStanding": 2,
+    "improvement": 8,
+    "changeDate": "2026-08-24T02:03:15Z"
+  },
+  {
     "mapUid": "OpUNMYeOqouJ6LcOIZXTvHBJPE",
     "mapName": "Fall 2023 - 06",
     "player": "Kelven.",
