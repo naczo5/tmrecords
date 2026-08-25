@@ -1,5 +1,37 @@
 [
   {
+    "mapUid": "26bs4EKxkiQKhupKQCnGIMzXfMh",
+    "mapName": "GENESIS",
+    "player": "Thomas_Jean",
+    "scoreMs": 41048,
+    "date": "2026-08-25T12:51:17Z",
+    "ageDays": 0,
+    "campaign": "TOTD 2026-08",
+    "link": "https://trackmania.io/#/leaderboard/26bs4EKxkiQKhupKQCnGIMzXfMh",
+    "timeSec": 41.048,
+    "previousTime": 41158,
+    "previousPlayer": "Thomas_Jean",
+    "daysStanding": 0,
+    "improvement": 110,
+    "changeDate": "2026-08-25T13:17:34Z"
+  },
+  {
+    "mapUid": "VsTQVXqqByO_qBi1GZtUraFtj35",
+    "mapName": "Saudi Arabia 2026",
+    "player": "AR_Mudda",
+    "scoreMs": 67238,
+    "date": "2026-08-25T03:23:08Z",
+    "ageDays": 0,
+    "campaign": "Summer 2026",
+    "link": "https://trackmania.io/#/leaderboard/VsTQVXqqByO_qBi1GZtUraFtj35",
+    "timeSec": 67.238,
+    "previousTime": 67295,
+    "previousPlayer": "AR_Mudda",
+    "daysStanding": 0,
+    "improvement": 57,
+    "changeDate": "2026-08-25T13:17:34Z"
+  },
+  {
     "mapUid": "VsTQVXqqByO_qBi1GZtUraFtj35",
     "mapName": "Saudi Arabia 2026",
     "player": "AR_Mudda",
