@@ -1,5 +1,37 @@
 [
   {
+    "mapUid": "G197ae7Z7kUW3sUyj6Yi65TIt57",
+    "mapName": "XPEvo26  - DeutscheBahn Z",
+    "player": "GNR-HASKELL",
+    "scoreMs": 53995,
+    "date": "2026-08-29T05:15:30Z",
+    "ageDays": 0,
+    "campaign": "TOTD 2026-08",
+    "link": "https://trackmania.io/#/leaderboard/G197ae7Z7kUW3sUyj6Yi65TIt57",
+    "timeSec": 53.995,
+    "previousTime": 54028,
+    "previousPlayer": "Andybaguette",
+    "daysStanding": 0,
+    "improvement": 33,
+    "changeDate": "2026-08-29T07:12:07Z"
+  },
+  {
+    "mapUid": "gr7VZGZwvXqoaA0T2Zf_jplDwH2",
+    "mapName": "Summer 2026 - 17",
+    "player": "Kovalc",
+    "scoreMs": 42946,
+    "date": "2026-08-29T04:38:23Z",
+    "ageDays": 0,
+    "campaign": "Summer 2026",
+    "link": "https://trackmania.io/#/leaderboard/gr7VZGZwvXqoaA0T2Zf_jplDwH2",
+    "timeSec": 42.946,
+    "previousTime": 42970,
+    "previousPlayer": "Nodd_",
+    "daysStanding": 25,
+    "improvement": 24,
+    "changeDate": "2026-08-29T07:12:07Z"
+  },
+  {
     "mapUid": "VI54yPE_npe6EAH3NPbV0zo2m01",
     "mapName": "Windswept ' Seven",
     "player": "Zypher.TM",
