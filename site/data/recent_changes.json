@@ -1,5 +1,37 @@
 [
   {
+    "mapUid": "YabBQ9oDUsTfs8NwvzVjUECVcR4",
+    "mapName": "Summer 2022 - 18",
+    "player": "pb.y.d",
+    "scoreMs": 41922,
+    "date": "2026-08-30T04:52:12Z",
+    "ageDays": 0,
+    "campaign": "Summer 2022",
+    "link": "https://trackmania.io/#/leaderboard/YabBQ9oDUsTfs8NwvzVjUECVcR4",
+    "timeSec": 41.922,
+    "previousTime": 41960,
+    "previousPlayer": "MEDICINE9268",
+    "daysStanding": 10,
+    "improvement": 38,
+    "changeDate": "2026-08-30T05:28:44Z"
+  },
+  {
+    "mapUid": "G197ae7Z7kUW3sUyj6Yi65TIt57",
+    "mapName": "XPEvo26  - DeutscheBahn Z",
+    "player": "Rasg.",
+    "scoreMs": 53962,
+    "date": "2026-08-29T16:50:39Z",
+    "ageDays": 0,
+    "campaign": "TOTD 2026-08",
+    "link": "https://trackmania.io/#/leaderboard/G197ae7Z7kUW3sUyj6Yi65TIt57",
+    "timeSec": 53.962,
+    "previousTime": 53975,
+    "previousPlayer": "Rasg.",
+    "daysStanding": 0,
+    "improvement": 13,
+    "changeDate": "2026-08-30T05:28:44Z"
+  },
+  {
     "mapUid": "G197ae7Z7kUW3sUyj6Yi65TIt57",
     "mapName": "XPEvo26  - DeutscheBahn Z",
     "player": "Rasg.",
