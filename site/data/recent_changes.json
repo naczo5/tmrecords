@@ -1,5 +1,37 @@
 [
   {
+    "mapUid": "uQrUHGT16AptHdxkUKL3MWuh0Gm",
+    "mapName": "Summer 2020 - 14",
+    "player": "GunterTM",
+    "scoreMs": 18681,
+    "date": "2026-09-01T14:57:25Z",
+    "ageDays": 0,
+    "campaign": "Summer 2020",
+    "link": "https://trackmania.io/#/leaderboard/uQrUHGT16AptHdxkUKL3MWuh0Gm",
+    "timeSec": 18.681,
+    "previousTime": 18694,
+    "previousPlayer": "KC.DarkeR",
+    "daysStanding": 2188,
+    "improvement": 13,
+    "changeDate": "2026-09-01T16:44:40Z"
+  },
+  {
+    "mapUid": "dASzlSVI1BSWjc1MH2QV8lKGlFm",
+    "mapName": "Dark Hive  Nightflow U&R",
+    "player": "Nalax_tm",
+    "scoreMs": 49643,
+    "date": "2026-09-01T14:21:11Z",
+    "ageDays": 0,
+    "campaign": "TOTD 2026-08",
+    "link": "https://trackmania.io/#/leaderboard/dASzlSVI1BSWjc1MH2QV8lKGlFm",
+    "timeSec": 49.643,
+    "previousTime": 49817,
+    "previousPlayer": "Nalax_tm",
+    "daysStanding": 0,
+    "improvement": 174,
+    "changeDate": "2026-09-01T16:44:40Z"
+  },
+  {
     "mapUid": "d83GbrV9SN7kfY3ftaK8FRVB44b",
     "mapName": "Fall 2024 - 05",
     "player": "Telephone.Line",
