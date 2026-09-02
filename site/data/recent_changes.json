@@ -1,5 +1,37 @@
 [
   {
+    "mapUid": "MrRCkcDMLUCEFb_tOVquORlaME8",
+    "mapName": "Summer 2026 - 11",
+    "player": "Aly-Jr.",
+    "scoreMs": 36345,
+    "date": "2026-09-01T22:39:24Z",
+    "ageDays": 0,
+    "campaign": "Summer 2026",
+    "link": "https://trackmania.io/#/leaderboard/MrRCkcDMLUCEFb_tOVquORlaME8",
+    "timeSec": 36.345,
+    "previousTime": 36351,
+    "previousPlayer": "Aly-Jr.",
+    "daysStanding": 0,
+    "improvement": 6,
+    "changeDate": "2026-09-02T04:37:45Z"
+  },
+  {
+    "mapUid": "MaIA4ppPxHCSWJ2HTFo9l5XPAS4",
+    "mapName": "Aincrad ft Loso",
+    "player": "Magorian0212",
+    "scoreMs": 43198,
+    "date": "2026-09-01T22:19:40Z",
+    "ageDays": 0,
+    "campaign": "TOTD 2026-08",
+    "link": "https://trackmania.io/#/leaderboard/MaIA4ppPxHCSWJ2HTFo9l5XPAS4",
+    "timeSec": 43.198,
+    "previousTime": 43216,
+    "previousPlayer": "Mawi._",
+    "daysStanding": 18,
+    "improvement": 18,
+    "changeDate": "2026-09-02T04:37:45Z"
+  },
+  {
     "mapUid": "uQrUHGT16AptHdxkUKL3MWuh0Gm",
     "mapName": "Summer 2020 - 14",
     "player": "GunterTM",
