@@ -1,5 +1,37 @@
 [
   {
+    "mapUid": "D9PGWHRAYm45fA0aWP88WN61aJc",
+    "mapName": "you're so golden",
+    "player": "Magorian0212",
+    "scoreMs": 41766,
+    "date": "2026-09-04T15:40:25Z",
+    "ageDays": 0,
+    "campaign": "TOTD 2026-09",
+    "link": "https://trackmania.io/#/leaderboard/D9PGWHRAYm45fA0aWP88WN61aJc",
+    "timeSec": 41.766,
+    "previousTime": 41856,
+    "previousPlayer": "Sky.T1",
+    "daysStanding": 0,
+    "improvement": 90,
+    "changeDate": "2026-09-04T16:28:35Z"
+  },
+  {
+    "mapUid": "ywXncceZjgye9FhpUGcHPyDu3k",
+    "mapName": "plastique",
+    "player": "hobbi.",
+    "scoreMs": 36178,
+    "date": "2026-09-04T14:15:14Z",
+    "ageDays": 0,
+    "campaign": "TOTD 2021-06",
+    "link": "https://trackmania.io/#/leaderboard/ywXncceZjgye9FhpUGcHPyDu3k",
+    "timeSec": 36.178,
+    "previousTime": 36278,
+    "previousPlayer": "ShcrTM",
+    "daysStanding": 1896,
+    "improvement": 100,
+    "changeDate": "2026-09-04T16:28:35Z"
+  },
+  {
     "mapUid": "I1HRBvcZzxRW3XMwN_Ix0gE3qv9",
     "mapName": "Summer 2026 - 10",
     "player": "LimaTM",
