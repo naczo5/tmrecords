@@ -1,5 +1,37 @@
 [
   {
+    "mapUid": "I1HRBvcZzxRW3XMwN_Ix0gE3qv9",
+    "mapName": "Summer 2026 - 10",
+    "player": "LimaTM",
+    "scoreMs": 30805,
+    "date": "2026-09-05T05:28:26Z",
+    "ageDays": 0,
+    "campaign": "Summer 2026",
+    "link": "https://trackmania.io/#/leaderboard/I1HRBvcZzxRW3XMwN_Ix0gE3qv9",
+    "timeSec": 30.805,
+    "previousTime": 30818,
+    "previousPlayer": "LimaTM",
+    "daysStanding": 1,
+    "improvement": 13,
+    "changeDate": "2026-09-05T15:18:31Z"
+  },
+  {
+    "mapUid": "pd6i0dIVha_9Q2oxrEeXJmE5Pz7",
+    "mapName": "Giga Drain",
+    "player": "Bepeze",
+    "scoreMs": 48530,
+    "date": "2026-09-05T04:44:33Z",
+    "ageDays": 0,
+    "campaign": "TOTD 2026-09",
+    "link": "https://trackmania.io/#/leaderboard/pd6i0dIVha_9Q2oxrEeXJmE5Pz7",
+    "timeSec": 48.53,
+    "previousTime": 48644,
+    "previousPlayer": "Bepeze",
+    "daysStanding": 0,
+    "improvement": 114,
+    "changeDate": "2026-09-05T15:18:31Z"
+  },
+  {
     "mapUid": "MrRCkcDMLUCEFb_tOVquORlaME8",
     "mapName": "Summer 2026 - 11",
     "player": "Emelius.",
