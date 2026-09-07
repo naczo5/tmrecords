@@ -1,28 +1,9 @@
 {
-  "lastUpdate": "2026-09-06T15:36:32Z",
-  "recordCount": 2865,
+  "lastUpdate": "2026-09-07T04:47:25Z",
+  "recordCount": 2884,
   "recentChangeCount": 520,
-  "warningCount": 18,
-  "warnings": [
-    "leaderboard request failed for IAUQOw5SWUdYcMIRyekXURNfvwg: 502",
-    "leaderboard request failed for yWzbAF4RgbuCoZRo7kIVAGhyN_l: 502",
-    "leaderboard request failed for LTKPptkPNhw5NZdiP1sT9AD6bM4: 502",
-    "leaderboard request failed for 8ZE15_5mx2R3AL4e9qddRTpAaw1: 502",
-    "leaderboard request failed for 35mH38U7BCU2rI2aNnee_ynYF8a: 502",
-    "leaderboard request failed for vMXoSQh6ra7uymMppUUb1LijRX8: 502",
-    "leaderboard request failed for 7eXLuks_zFrd8BoV9jpS5pjdevh: 502",
-    "leaderboard request failed for mcii3YYesYkF9HuKB9ycK2crbN9: 502",
-    "leaderboard request failed for 4i0q2ZiR7XWDosymQMNHp0iarR0: 502",
-    "leaderboard request failed for BK6wk7d3zhkDUGz_KGKUq2MpZgd: 502",
-    "leaderboard request failed for ZfzlVBRpECHQNdXA8NbxaalfwJg: 502",
-    "leaderboard request failed for Ut42VCVeQgHhY294cittH_ljqNa: 502",
-    "leaderboard request failed for BWhmD1yxDCLC4p6fA56Xk4J5e3: 502",
-    "leaderboard request failed for HugqBsURbRLUCa3o4pFuzKkbTTh: 502",
-    "leaderboard request failed for QzrdXqIEZ7lmdNyTATDlBPgc3I2: 502",
-    "leaderboard request failed for K3iFBvymwIlJDHFKXnNUBGnyOWg: 502",
-    "leaderboard request failed for pxfr2o_yeKAsYCZXTw0HWBvwQOf: 502",
-    "leaderboard request failed for EJxJDfktLkvZAQRibduy0GDL8Dc: 502"
-  ],
-  "durationSeconds": 545.21,
+  "warningCount": 0,
+  "warnings": [],
+  "durationSeconds": 462.56,
   "generatedBy": "scripts/fetch_records.py"
 }
