@@ -1,5 +1,37 @@
 [
   {
+    "mapUid": "U6DbF9IjcXixaDYArBRXxwwo5lb",
+    "mapName": "Spring 2026 - 20",
+    "player": "YunaDeReal",
+    "scoreMs": 27876,
+    "date": "2026-09-09T14:19:35Z",
+    "ageDays": 0,
+    "campaign": "Spring 2026",
+    "link": "https://trackmania.io/#/leaderboard/U6DbF9IjcXixaDYArBRXxwwo5lb",
+    "timeSec": 27.876,
+    "previousTime": 43370,
+    "previousPlayer": "r3.zimzalabim",
+    "daysStanding": 125,
+    "improvement": 15494,
+    "changeDate": "2026-09-09T16:45:58Z"
+  },
+  {
+    "mapUid": "emVkJwr9slHvbklWq2tQqEIxcxg",
+    "mapName": "Summer 2026 - 18",
+    "player": "DarkestSentinel",
+    "scoreMs": 47023,
+    "date": "2026-09-09T09:05:33Z",
+    "ageDays": 0,
+    "campaign": "Summer 2026",
+    "link": "https://trackmania.io/#/leaderboard/emVkJwr9slHvbklWq2tQqEIxcxg",
+    "timeSec": 47.023,
+    "previousTime": 47026,
+    "previousPlayer": "Narbex",
+    "daysStanding": 64,
+    "improvement": 3,
+    "changeDate": "2026-09-09T16:45:58Z"
+  },
+  {
     "mapUid": "I1HRBvcZzxRW3XMwN_Ix0gE3qv9",
     "mapName": "Summer 2026 - 10",
     "player": "LimaTM",
