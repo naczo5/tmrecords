@@ -1,5 +1,37 @@
 [
   {
+    "mapUid": "p8MRHAE21bxomvwksHmNH0XZvx7",
+    "mapName": "FOG",
+    "player": "PlinkTM",
+    "scoreMs": 40347,
+    "date": "2026-09-12T20:43:01Z",
+    "ageDays": 0,
+    "campaign": "TOTD 2021-02",
+    "link": "https://trackmania.io/#/leaderboard/p8MRHAE21bxomvwksHmNH0XZvx7",
+    "timeSec": 40.347,
+    "previousTime": 40365,
+    "previousPlayer": "levonn",
+    "daysStanding": 2036,
+    "improvement": 18,
+    "changeDate": "2026-09-13T04:53:50Z"
+  },
+  {
+    "mapUid": "MrRCkcDMLUCEFb_tOVquORlaME8",
+    "mapName": "Summer 2026 - 11",
+    "player": "Emelius.",
+    "scoreMs": 35952,
+    "date": "2026-09-12T17:36:14Z",
+    "ageDays": 0,
+    "campaign": "Summer 2026",
+    "link": "https://trackmania.io/#/leaderboard/MrRCkcDMLUCEFb_tOVquORlaME8",
+    "timeSec": 35.952,
+    "previousTime": 36302,
+    "previousPlayer": "Jooff.",
+    "daysStanding": 1,
+    "improvement": 350,
+    "changeDate": "2026-09-13T04:53:50Z"
+  },
+  {
     "mapUid": "PN0MknK9aAeXzcIysVq_Qt00gu4",
     "mapName": "auty At The Bottom Ft KrisTM",
     "player": "Rals8",
