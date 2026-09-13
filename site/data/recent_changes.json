@@ -1,5 +1,37 @@
 [
   {
+    "mapUid": "THTISoTftvvCWX219kojJrfMixj",
+    "mapName": "Formule Gou1",
+    "player": "A01.caleb",
+    "scoreMs": 58897,
+    "date": "2026-09-13T07:01:27Z",
+    "ageDays": 0,
+    "campaign": "TOTD 2020-07",
+    "link": "https://trackmania.io/#/leaderboard/THTISoTftvvCWX219kojJrfMixj",
+    "timeSec": 58.897,
+    "previousTime": 59045,
+    "previousPlayer": "racehansTM",
+    "daysStanding": 694,
+    "improvement": 148,
+    "changeDate": "2026-09-13T16:21:25Z"
+  },
+  {
+    "mapUid": "MfbFeDXBhCq6I5KUHgvG4B6b8Z7",
+    "mapName": "Winter 2023 - 22",
+    "player": "pb.y.d",
+    "scoreMs": 55971,
+    "date": "2026-09-13T05:47:03Z",
+    "ageDays": 0,
+    "campaign": "Winter 2023",
+    "link": "https://trackmania.io/#/leaderboard/MfbFeDXBhCq6I5KUHgvG4B6b8Z7",
+    "timeSec": 55.971,
+    "previousTime": 56048,
+    "previousPlayer": "pb.y.d",
+    "daysStanding": 16,
+    "improvement": 77,
+    "changeDate": "2026-09-13T16:21:25Z"
+  },
+  {
     "mapUid": "p8MRHAE21bxomvwksHmNH0XZvx7",
     "mapName": "FOG",
     "player": "PlinkTM",
