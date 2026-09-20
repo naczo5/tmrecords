@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-09-19T16:00:04Z",
-  "recordCount": 2896,
-  "recentChangeCount": 560,
+  "lastUpdate": "2026-09-20T04:58:51Z",
+  "recordCount": 2897,
+  "recentChangeCount": 561,
   "warningCount": 0,
   "warnings": [],
-  "durationSeconds": 468.42,
+  "durationSeconds": 360.7,
   "generatedBy": "scripts/fetch_records.py"
 }
