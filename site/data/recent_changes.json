@@ -1,5 +1,37 @@
 [
   {
+    "mapUid": "oaBO74WCFIzFddXHnxfG6u_DWLj",
+    "mapName": "Amarok",
+    "player": "BakersField32",
+    "scoreMs": 39779,
+    "date": "2026-09-28T01:06:23Z",
+    "ageDays": 0,
+    "campaign": "TOTD 2020-09",
+    "link": "https://trackmania.io/#/leaderboard/oaBO74WCFIzFddXHnxfG6u_DWLj",
+    "timeSec": 39.779,
+    "previousTime": 41906,
+    "previousPlayer": "Insanity.TM",
+    "daysStanding": 1341,
+    "improvement": 2127,
+    "changeDate": "2026-09-28T05:28:05Z"
+  },
+  {
+    "mapUid": "tjrtqANqzvTY8ncCAjnzu5JkgCi",
+    "mapName": "Summer 2026 - 20",
+    "player": "Maniaaaac_",
+    "scoreMs": 44620,
+    "date": "2026-09-27T18:30:51Z",
+    "ageDays": 0,
+    "campaign": "Summer 2026",
+    "link": "https://trackmania.io/#/leaderboard/tjrtqANqzvTY8ncCAjnzu5JkgCi",
+    "timeSec": 44.62,
+    "previousTime": 44681,
+    "previousPlayer": "Maniaaaac_",
+    "daysStanding": 0,
+    "improvement": 61,
+    "changeDate": "2026-09-28T05:28:05Z"
+  },
+  {
     "mapUid": "uQrUHGT16AptHdxkUKL3MWuh0Gm",
     "mapName": "Summer 2020 - 14",
     "player": "lasyoppwtf",
