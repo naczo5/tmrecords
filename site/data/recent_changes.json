@@ -2,6 +2,22 @@
   {
     "mapUid": "Q8C5qFfjU62MZa6ikaYzYCkc4Ob",
     "mapName": "Kodak",
+    "player": "Toad.TM",
+    "scoreMs": 40536,
+    "date": "2026-09-30T09:00:37Z",
+    "ageDays": 0,
+    "campaign": "TOTD 2026-09",
+    "link": "https://trackmania.io/#/leaderboard/Q8C5qFfjU62MZa6ikaYzYCkc4Ob",
+    "timeSec": 40.536,
+    "previousTime": 40584,
+    "previousPlayer": "GreenLogos",
+    "daysStanding": 0,
+    "improvement": 48,
+    "changeDate": "2026-09-30T18:08:01Z"
+  },
+  {
+    "mapUid": "Q8C5qFfjU62MZa6ikaYzYCkc4Ob",
+    "mapName": "Kodak",
     "player": "GreenLogos",
     "scoreMs": 40584,
     "date": "2026-09-30T01:59:45Z",
