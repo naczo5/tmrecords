@@ -1,5 +1,37 @@
 [
   {
+    "mapUid": "MBg3GI8i8Kzwma66dmlF9ESowQ4",
+    "mapName": "Starscape",
+    "player": "SIXOH7EVEN.UNC",
+    "scoreMs": 42533,
+    "date": "2026-10-10T05:29:24Z",
+    "ageDays": 0,
+    "campaign": "TOTD 2024-04",
+    "link": "https://trackmania.io/#/leaderboard/MBg3GI8i8Kzwma66dmlF9ESowQ4",
+    "timeSec": 42.533,
+    "previousTime": 42601,
+    "previousPlayer": "Evo.Dot",
+    "daysStanding": 14,
+    "improvement": 68,
+    "changeDate": "2026-10-10T05:59:01Z"
+  },
+  {
+    "mapUid": "bYG3jvXV8_FdQvihFN1II3vIU0g",
+    "mapName": "Fall 2026 - 15",
+    "player": "Susuwi",
+    "scoreMs": 28253,
+    "date": "2026-10-10T01:35:40Z",
+    "ageDays": 0,
+    "campaign": "Fall 2026",
+    "link": "https://trackmania.io/#/leaderboard/bYG3jvXV8_FdQvihFN1II3vIU0g",
+    "timeSec": 28.253,
+    "previousTime": 28261,
+    "previousPlayer": "Susuwi",
+    "daysStanding": 1,
+    "improvement": 8,
+    "changeDate": "2026-10-10T05:59:01Z"
+  },
+  {
     "mapUid": "V7eUfkrrczwLX33j4geGUglMBT1",
     "mapName": "Czech Republic 2026",
     "player": "Melioo.-",
